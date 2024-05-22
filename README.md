@@ -1,4 +1,4 @@
-![Project Screenshot](Logo.png)
+<img src="images/logo.png" alt="Project Screenshot" width="800"/>
 ## Hi there, welcome to my Github! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ArmisDev&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/ArmisDev?label=Follow&style=social)
