@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a design engineer specializing in pioneering agentic UI/UX patterns and intent-driven interfaces. I focus on transforming traditional page-based navigation into innovative agent-driven experiences where AI orchestrates user interactions dynamically.
+I'm a design engineer focused on creating intuitive, user-first interfaces and building tools that make professional workflows more accessible. I enjoy exploring the intersection of thoughtful design and practical engineering to solve real problems.
 
 Currently, I'm building tools that make professional engineering more accessible and affordable, with a particular focus on audio engineering platforms and career management solutions.
 
