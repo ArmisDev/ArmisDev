@@ -3,36 +3,30 @@
 </div>
 
 ## Hi there, welcome to my Github! 👋
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ArmisDev&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/ArmisDev?label=Follow&style=social)
 
 ## About Me
-- 🗣️ I am a indie dev currently working on a puzzle sloving adventure game and an FPS blueprint system that I am targeting to realese on the Unity asset store.
-- 🌱 I’m currently learning game development and web development
-- ⚡ Fun fact: Outside of game/web development I have a huge passion for music production and modular synthesis. Here is a link to my soundcloud if you would like to check it out! [SoundCloud☁️🎧](https://soundcloud.com/armisofficial)
 
-# Skills
-- Game System Desing
-- Game Programing
-- Software Development
-- Animation
-- 3D Modeling
-- Texturing
-- Sound Design
+I'm a design engineer specializing in pioneering agentic UI/UX patterns and intent-driven interfaces. I focus on transforming traditional page-based navigation into innovative agent-driven experiences where AI orchestrates user interactions dynamically.
 
-## Main Projects
+Currently, I'm building tools that make professional engineering more accessible and affordable, with a particular focus on audio engineering platforms and career management solutions.
 
-### [FPS Blueprint](https://github.com/ArmisDev/FPS_Project)
-The primary aim of this project is to build a comprehensive, adaptable first-person shooter system with a focus on robustness and modularity.
+## Skills
 
-This includes a fully functional and easily customizable weapons system, a robust inventory management system, the implementation of advanced player movement mechanics driven by distinct states, a carefully crafted weapon effects system to enhance player immersion, and much more to elevate the overall FPS gaming experience.
+- **UI/UX Design & Development** - Specializing in agentic interface patterns and intent-driven flows
+- **Full-Stack Development** - Building scalable web applications with modern frameworks
+- **Audio Engineering** - Sound design, mixing, and mastering with FL Studio
+- **Data Visualization** - Creating intuitive, accessible charts and interactive components
+- **Product Design** - User-first design philosophy and accessible interface development
 
-### [Hologram Shader](https://github.com/ArmisDev/Hologram-Shader)
-A expoloration of Unity's shader language ShaderLab.
+## Beyond Code
+
+Outside of software development, I have a deep passion for music production and sound design. Check out my work on [SoundCloud ☁️🎧](https://soundcloud.com/armisofficial)
 
 ## Connect with Me
 
-- [Twitter](https://x.com/ItzArmis)
-- [Portfolio](https://www.armisdev.com/)
+- [Portfolio](https://theproducersfriend.com/)
 
-Please feel free to check out my repos and reach out if you have any quesitons!
+Feel free to explore my repositories and reach out if you have any questions!
